@@ -8,7 +8,7 @@ interface InjectedProps{
 }
 
 const CheckBox: React.FC<InjectedProps> = ({label, onChange, name}) => (
-  <div className="form-check form-check-inline my-1">
+  <div className="form-check form-check-inline my-1 d-flex justify-content-center">
     <input className="form-check-input" name={ name } onChange={ onChange } type="checkbox" required/>
     <label className="form-check-label" >{ label }</label>
   </div>
