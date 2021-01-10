@@ -1,0 +1,20 @@
+.btn-coral{
+    color: #fff !important;
+    background-color: #ff5858 !important;
+    border-color: #ff5858 !important;
+}
+
+.btn-coral:hover{
+    color: #fff !important;
+    background-color: #ff2222 !important;
+    border-color: #ff2222 !important;
+}
+
+.text-coral{
+    color: #ff5858;
+}
+
+label{
+    font-weight: 600;
+    color: #8c8a8a;
+}
