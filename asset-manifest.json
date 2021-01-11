@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/joias-frontend/static/css/main.57673f66.chunk.css",
+    "main.js": "/joias-frontend/static/js/main.95c62d87.chunk.js",
+    "main.js.map": "/joias-frontend/static/js/main.95c62d87.chunk.js.map",
+    "runtime-main.js": "/joias-frontend/static/js/runtime-main.e0bc33f7.js",
+    "runtime-main.js.map": "/joias-frontend/static/js/runtime-main.e0bc33f7.js.map",
+    "static/js/2.2662f112.chunk.js": "/joias-frontend/static/js/2.2662f112.chunk.js",
+    "static/js/2.2662f112.chunk.js.map": "/joias-frontend/static/js/2.2662f112.chunk.js.map",
+    "index.html": "/joias-frontend/index.html",
+    "static/css/main.57673f66.chunk.css.map": "/joias-frontend/static/css/main.57673f66.chunk.css.map",
+    "static/js/2.2662f112.chunk.js.LICENSE.txt": "/joias-frontend/static/js/2.2662f112.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0bc33f7.js",
+    "static/js/2.2662f112.chunk.js",
+    "static/css/main.57673f66.chunk.css",
+    "static/js/main.95c62d87.chunk.js"
+  ]
+}
