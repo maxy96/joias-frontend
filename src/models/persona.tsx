@@ -2,7 +2,7 @@ export default class Persona{
     private phone: string;
 
     constructor(private nombre: string, private apellido: string, private email: string){
-        this.phone = '';
+        this.phone = '3794040913';
     }
 
     private fullName(): string{
